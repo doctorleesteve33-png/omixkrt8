@@ -1,0 +1,12 @@
+disease_group,alveolar_cells,KRT8_trans,pct_of_alveolar
+Normal,19199,6365,33.15
+IPF,1298,608,46.84
+NSIP,566,323,57.07
+CTD-ILD,356,249,69.94
+IPAF,85,30,35.29
+cHP,79,40,50.63
+CWP,673,360,53.49
+ILD (other),371,180,48.52
+ILD/HP,39,17,43.59
+Sarcoidosis,375,196,52.27
+COVID-19,1556,58,3.73
