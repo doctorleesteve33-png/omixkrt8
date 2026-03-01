@@ -2,6 +2,9 @@
 *.h5ad
 *.h5mu
 
+# Split file parts for GitHub Releases upload
+session3_output/data/epi_part_*
+
 # Cloned repos
 omixkrt8_repo/
 
